@@ -44,6 +44,25 @@ a{
 
 }
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.coding-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chili-pepper-img{
+  width: 25%;
+
+}
+
 .pro{
   text-decoration: underline;
 }
